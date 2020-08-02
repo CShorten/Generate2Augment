@@ -1,6 +1,6 @@
 <h1> Reading List for Generative Data Augmentation </h1>
 
-<h4> Top 5 Examples of Generative Data Augmentation</h4>
+<h4> Great Examples of Generative Data Augmentation</h4>
 <ol>
   <li> Conditional BERT </li>
   <li> Pattern-Exploiting Training </li>
