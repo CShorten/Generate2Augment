@@ -9,7 +9,6 @@
 </ol>
 
 <h3> Survey Papers </h3>
-<br />
 <h4> Data Augmentation </h4>
 <h5> Data Augmentation in Computer Vision</h5>
 <h4> Generative Models </h4>
